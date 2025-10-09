@@ -1,0 +1,15 @@
+[project]
+name = "genetic-algorithm-rpg"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "flet[all]>=0.28.3",
+    "numpy>=2.3.3",
+]
+
+[dependency-groups]
+dev = [
+    "pytest>=8.4.2",
+]
