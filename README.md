@@ -2,7 +2,7 @@
 
 ## UI
 
-![](assets/ui.png)
+[](assets/ui.png)
 
 
 # RUN 
