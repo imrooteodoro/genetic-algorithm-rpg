@@ -1,8 +1,9 @@
 # RPG TAVERNA DA EVOLUÇÃO - ALGORITMOS GENÉTICOS
 
 ## UI
+_____
 
-[](assets/ui.png)
+![](assets/ui.png)
 
 
 # RUN 
