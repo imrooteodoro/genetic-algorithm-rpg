@@ -5,8 +5,13 @@ _____
 
 ![](assets/ui.png)
 
+https://github.com/user-attachments/assets/edef3605-ad6a-409a-8d29-9407b9462923
+
 
 # RUN 
+
+
+
 - uv install
 
 
